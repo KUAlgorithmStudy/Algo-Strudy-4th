@@ -13,7 +13,7 @@
 | 문제 종류 | 문제번호 | 링크 |
 | ----- | ----- | ----- |
 | DFS/BFS |2468. 안전영역|[링크](https://www.acmicpc.net/problem/2468)|
-| DFS/BFS |14963. 섬의 개수|[링크](https://www.acmicpc.net/problem/14963)|
+| DFS/BFS |4963. 섬의 개수|[링크](https://www.acmicpc.net/problem/4963)|
 | DFS/BFS |2210. 숫자판 점프|[링크](https://www.acmicpc.net/problem/2210)|
 | 그래프 |7567. 나이트의 이동|[링크](https://www.acmicpc.net/problem/7562)|
 | 그래프 |16947. 서울 지하철 2호선|[링크](https://www.acmicpc.net/problem/16947)|
