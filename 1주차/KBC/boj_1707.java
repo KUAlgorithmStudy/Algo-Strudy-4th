@@ -41,7 +41,7 @@ public class Main {
                     }
                     //이미 등록된 정점에 의해 순서가 정해진다면 등록
                     //그게 아니라면 보류
-                    for(int k=j+1; k<maxEdge; k++) {
+                    for(int k=1; k<maxEdge; k++) {
                         isVisit[k] = true;
                         if(leftVertice.contains(edges[k][0])) {
                             rightVertice.add(edges[k][1]);
