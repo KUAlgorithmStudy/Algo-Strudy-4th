@@ -21,6 +21,11 @@
 ### 3주차
 | 문제 종류 | 문제번호 | 링크 |
 | ----- | ----- | ----- |
+| 그래프 |16929. Two Dots|[링크](https://www.acmicpc.net/problem/16929)|
+| 브루프포스 |2529. 부등호|[링크](https://www.acmicpc.net/problem/2529)|
+| 브루트포스 |1339. 단어 수학|[링크](https://www.acmicpc.net/problem/1339)|
+| 브루트포스 |14888. 연산자 끼워넣기|[링크](https://www.acmicpc.net/problem/14888)|
+| 브루트포스 |14889. 스타트와 링크|[링크](https://www.acmicpc.net/problem/14889)|
 -------------
 ### 4주차
 | 문제 종류 | 문제번호 | 링크 |
