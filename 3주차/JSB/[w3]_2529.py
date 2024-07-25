@@ -29,6 +29,7 @@ def dfs(cnt, num):
             dfs(cnt+1, num+str(i))
             visited[i] = 0
 
+## __main__ ##
 k = int(input())
 signs = list(input().split())
 
