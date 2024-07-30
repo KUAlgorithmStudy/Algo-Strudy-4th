@@ -61,12 +61,10 @@ int main() {
     }
 
     if(check(init, target)) {
-        if (answer == -1) answer = tmp_ans;
-        else answer = min(answer, tmp_ans);
+        answer = tmp_ans;
     }
 
     remote(copy_init, 0);
-    tmp_ans = 1;
 
     if(check(copy_init, target)) {
         tmp_ans++;
