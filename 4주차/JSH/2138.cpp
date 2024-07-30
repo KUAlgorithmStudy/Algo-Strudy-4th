@@ -20,13 +20,16 @@ int N;
 int init[100001], target[100001];
 int copy_init[100001];
 
+int answer = -1;
+int tmp_ans = 0;
+
 void remote(int bulb[], int index) {
     for(int i = index - 1; i <= index + 1; i++) {
         if (i >= 0 && i < N) bulb[i] = 1 - bulb[i];
     }
 }
 
-bool check(int bulb[], int target[], int &result) {
+bool check(int bulb[], int target[]) {
     int ans = 0;
 
     for(int i=1; i < N; i++) {
@@ -35,7 +38,7 @@ bool check(int bulb[], int target[], int &result) {
             ans++;
         }
     }
-    result = ans;
+    tmp_ans = ans;
 
     for(int i=0; i < N; i++) {
         if(bulb[i] != target[i]) return false;
@@ -45,9 +48,6 @@ bool check(int bulb[], int target[], int &result) {
 
 int main() {
     ios_base::sync_with_stdio(false);
-
-    int answer = -1;
-    int tmp_ans = 0;
 
     scanf("%d", &N);
 
@@ -60,7 +60,7 @@ int main() {
         scanf("%1d", &target[i]);
     }
 
-    if(check(init, target, tmp_ans)) {
+    if(check(init, target)) {
         if (answer == -1) answer = tmp_ans;
         else answer = min(answer, tmp_ans);
     }
@@ -68,7 +68,7 @@ int main() {
     remote(copy_init, 0);
     tmp_ans = 1;
 
-    if(check(copy_init, target, tmp_ans)) {
+    if(check(copy_init, target)) {
         tmp_ans++;
         if (answer == -1) answer = tmp_ans;
         else answer = min(answer, tmp_ans);
