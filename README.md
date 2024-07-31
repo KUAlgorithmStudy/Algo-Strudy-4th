@@ -30,6 +30,12 @@
 ### 4주차
 | 문제 종류 | 문제번호 | 링크 |
 | ----- | ----- | ----- |
+| Greedy |1080. 행렬|[링크](https://www.acmicpc.net/problem/1080)|
+| Greedy |2138. 전구와 스위치|[링크](https://www.acmicpc.net/problem/2138)|
+| Greedy |1285. 동전뒤집기|[링크](https://www.acmicpc.net/problem/1285)|
+| Tree |1991. 트리순회|[링크](https://www.acmicpc.net/problem/1991)|
+| Tree |1967. 트리의지름|[링크](https://www.acmicpc.net/problem/1967)|
+
 -------------
 ### 5주차
 | 문제 종류 | 문제번호 | 링크 |
