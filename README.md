@@ -39,7 +39,11 @@
 -------------
 ### 5주차
 | 문제 종류 | 문제번호 | 링크 |
-| ----- | ----- | ----- |
+| Greedy |1715. 카드 정렬하기|[링크](https://www.acmicpc.net/problem/1715)|
+| Greedy |2212. 센서|[링크](https://www.acmicpc.net/problem/2212)|
+| Greedy |3109. 빵집|[링크](https://www.acmicpc.net/problem/3109)|
+| Tree |3584. 가장 가까운 공통 조상|[링크](https://www.acmicpc.net/problem/3584)|
+| Tree |9934. 완전 이진 트리|[링크](https://www.acmicpc.net/problem/9934)|
 -------------
 ### 6주차
 | 문제 종류 | 문제번호 | 링크 |
