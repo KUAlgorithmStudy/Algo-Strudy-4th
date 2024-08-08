@@ -49,6 +49,11 @@
 ### 6주차
 | 문제 종류 | 문제번호 | 링크 |
 | ----- | ----- | ----- |
+| Implementation |3190. 뱀|[링크](https://www.acmicpc.net/problem/3190)|
+| Math |1011. Fly me to the alpha Centauri|[링크](https://www.acmicpc.net/problem/1011)|
+| Bit-masking |10472. 십자뒤집기|[링크](https://www.acmicpc.net/problem/10472)|
+| Two-pointer |11728. 배열 합치기|[링크](https://www.acmicpc.net/problem/11728)|
+| Sorting |1377. 버블 소트|[링크](https://www.acmicpc.net/problem/1377)|
 -------------
 ### 7주차
 | 문제 종류 | 문제번호 | 링크 |
