@@ -58,3 +58,8 @@
 ### 7주차
 | 문제 종류 | 문제번호 | 링크 |
 | ----- | ----- | ----- |
+| String |9935. 문자열 폭발|[링크](https://www.acmicpc.net/problem/9935)|
+| Backtracking |15686. 치킨 배달|[링크](https://www.acmicpc.net/problem/15686)|
+| Disjoint-Set |1717. 집합의 표현|[링크](https://www.acmicpc.net/problem/1717)|
+| DP |11867. 박스 나누기 게임|[링크](https://www.acmicpc.net/problem/11867)|
+| Graph |1939. 중량제한|[링크](https://www.acmicpc.net/problem/1939)|
