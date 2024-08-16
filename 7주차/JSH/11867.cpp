@@ -56,7 +56,9 @@ bool dfs(int x, int y) {
         tmp_answer |= !(dfs(i, y - i));
     }
 
-    return dp[x][y] = tmp_answer;
+    dp[x][y] = tmp_answer;
+
+    return tmp_answer;
 }
 
 int main() {
